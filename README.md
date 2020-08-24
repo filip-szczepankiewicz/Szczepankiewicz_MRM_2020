@@ -10,8 +10,12 @@ Filip Szczepankiewicz1,2,3, Jens Sjölund4,5, Erica Dall’Armellina6, Sven Plei
 6. Leeds Institute of Cardiovascular and Metabolic Medicine, University of Leeds, Leeds, UK
 
 
-**\*Corresponding author**  
+**Corresponding author**  
 E-mail: filip.szczepankiewicz@med.lu.se
+
+### Numerical waveform optimization (NOW) framework in open source
+You can find the optimization framework, including motion moment nulling, at: https://github.com/jsjol/NOW
+
 
 ### Reference
 If you use these resources, please cite:  
