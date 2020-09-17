@@ -16,7 +16,7 @@ E-mail: filip.szczepankiewicz@med.lu.se
 ### Overview
 We present a gradient waveform design that is both more flexible and efficient than previous methods, facilitating tensor-valued diffusion encoding in tissues where motion would otherwise confound the signal. The proposed design exploits asymmetric encoding times, a single or multiple refocusing pulses, and integrates compensation for concomitant gradient effects throughout the imaging volume.
 
-The optimization framework, including the proposed moment nulling, is available in open source at: https://github.com/jsjol/NOW
+This repository contains all the waveforms shown in the paper and supporting information, along with the sampling protocols used for in vivo experiments. The optimization framework, including the proposed moment nulling, is available in open source at: https://github.com/jsjol/NOW
 
 ### Reference
 If you use these resources, please cite:  
