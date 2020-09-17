@@ -13,9 +13,10 @@ Filip Szczepankiewicz1,2,3, Jens Sjölund4,5, Erica Dall’Armellina6, Sven Plei
 **Corresponding author**  
 E-mail: filip.szczepankiewicz@med.lu.se
 
-### Numerical waveform optimization (NOW) framework in open source
-You can find the optimization framework, including motion moment nulling, at: https://github.com/jsjol/NOW
+### Overview
+We present a gradient waveform design that is both more flexible and efficient than previous methods, facilitating tensor-valued diffusion encoding in tissues where motion would otherwise confound the signal. The proposed design exploits asymmetric encoding times, a single or multiple refocusing pulses, and integrates compensation for concomitant gradient effects throughout the imaging volume.
 
+The optimization framework, including the proposed moment nulling, is available in open source at: https://github.com/jsjol/NOW
 
 ### Reference
 If you use these resources, please cite:  
