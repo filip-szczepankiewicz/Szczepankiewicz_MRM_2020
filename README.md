@@ -20,7 +20,9 @@ This repository contains all the waveforms shown in the paper and supporting inf
 
 ### Reference
 If you use these resources, please cite:  
-[Szczepankiewicz et al., Motion-compensated gradient waveforms for tensor-valued diffusion encoding by constrained numerical optimization. Magnetic Resonance in Medicine, 2020 (epub)](https://onlinelibrary.wiley.com/doi/10.1002/mrm.28551)
+[Szczepankiewicz et al., Motion-compensated gradient waveforms for tensor-valued diffusion encoding by constrained numerical optimization. Magnetic Resonance in Medicine, 2021;85:2117–2126](https://onlinelibrary.wiley.com/doi/10.1002/mrm.28551)
+  
+[Supplementary Information](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fmrm.28551&file=mrm28551-sup-0001-FigS1-S4.docx)
 
 
 ### Related resources can be found at the [FWF sequence GIT repository](https://github.com/filip-szczepankiewicz/fwf_seq_resources)
